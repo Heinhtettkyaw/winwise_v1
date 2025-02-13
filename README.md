@@ -13,7 +13,6 @@
 - ✅ Upload CSV/Excel files containing historical match data, current standings, and remaining fixtures.
 - ✅ Runs a Poisson Regression model to predict match results.
 - ✅ Generates a predicted league table based on simulated results.
-- ✅ Provides visualizations for better understanding of trends.
 - ✅ Simple frontend UI for file upload and viewing results.
 
 ---
