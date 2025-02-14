@@ -1,4 +1,3 @@
-// spring-boot-service/src/main/java/com/example/demo/util/MultipartInputStreamFileResource.java
 package com.example.demo.util;
 
 import java.io.IOException;
@@ -21,6 +20,6 @@ public class MultipartInputStreamFileResource extends InputStreamResource {
 
     @Override
     public long contentLength() throws IOException {
-        return -1; // content length is not specified
+        return -1; // unspecified content length
     }
 }

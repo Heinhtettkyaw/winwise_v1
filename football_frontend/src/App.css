@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* react-frontend/src/App.css */
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+form div {
+    margin: 10px 0;
+}
+
+.results {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
