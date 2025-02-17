@@ -46,9 +46,9 @@
 
 #### Steps
 1. Navigate to the Spring Boot directory:
- ```bash
+```bash
    cd spring-boot-service
- ```
+```
 2. Build and run the Spring Boot server:
 ```bash
    mvn clean install
@@ -67,15 +67,15 @@
 1. Navigate to the React frontend directory:
 ```bash
    cd react-frontend
-   ```
+```
 2. Install dependencies:
-   ```bash
+```bash
    npm install
-   ````
+```
 3. Start the React app:
-   ```bash
+```bash
    npm start
-    ```
+```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
@@ -92,18 +92,18 @@
    cd python-ml-service
 ```
 2. Create a virtual environment and activate it:
-  ```bash
+```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\\Scripts\\activate
-   ```
+```
 3. Install dependencies:
-  ```bash
+```bash
    pip install -r requirements.txt
- ```
+```
 4. Run the Flask server:
-   ```bash
+```bash
    python app.py
-    ```
+```
 5. The Flask API will run at [http://localhost:5000](http://localhost:5000).
 
 ---
