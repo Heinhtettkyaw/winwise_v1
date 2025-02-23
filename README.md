@@ -1,5 +1,5 @@
 
-# Win Wise- Wise insights for matches and league standings
+# WinWise- Wise insights for matches and league standings
 
 ## Overview
 **WinWise** is a football league standings prediction system that uses machine learning (Poisson Regression) to simulate match results and predict final standings. The system consists of:
